@@ -1,0 +1,14 @@
+
+================================================================
+======== txAdmin starting - 5/12/2021, 5:02:42 AM
+================================================================
+[05:05:15][127.0.0.1][KRaZiiiE] Changing global settings via setup stepper and started Deployer.
+[05:05:25][127.0.0.1][KRaZiiiE] Setting recipe.
+[05:05:38][127.0.0.1][KRaZiiiE] Running recipe.
+[05:06:01][127.0.0.1][KRaZiiiE] Configured server.cfg from deployer.
+[05:06:01][127.0.0.1][KRaZiiiE] Completed and committed server deploy.
+[05:07:05][127.0.0.1][KRaZiiiE] refresh
+
+================================================================
+======== txAdmin starting - 5/12/2021, 5:23:25 AM
+================================================================

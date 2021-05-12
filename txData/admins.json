@@ -1,0 +1,21 @@
+[
+  {
+    "name": "KRaZiiiE",
+    "master": true,
+    "password_hash": "$2a$11$b9s2cLBRck72MzzPAxoRSu1MyzlZB5FP3zKUbYcgeJEoo8FJqbPHi",
+    "providers": {
+      "citizenfx": {
+        "id": "KRaZiiiE",
+        "identifier": "fivem:954573",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/954573",
+          "name": "KRaZiiiE",
+          "profile": "https://forum.cfx.re/u/KRaZiiiE",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/kraziiie/256/516680_2.png",
+          "sub": "e96a4509478f828ff635c2009f64cc457715c9202adcd4fa26145be948fe305f"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

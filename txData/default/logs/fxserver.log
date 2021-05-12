@@ -1,0 +1,49 @@
+
+================================================================
+======== FXServer starting - 5/12/2021, 5:23:29 AM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 26 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 3.7.0 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;66m[          svadhesive] Authenticating server license key...
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;154m[   script:mapmanager] Started map fivem-map-hipster
+[38;5;73m[ citizen-server-impl] Started resource fivem-map-hipster
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;73m[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://kraziiie-er6aza.users.cfx.re/
+[38;5;73m[ citizen-server-impl] -- [server notice: tebex_not_set]
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] Monetize your server using Tebex! Visit https://tebex.io/fivem for more info.
+[38;5;73m[ citizen-server-impl] ================
+[38;5;73m[ citizen-server-impl] 
+[38;5;73m[ citizen-server-impl] Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[38;5;134m[      script:hardcap] Connecting: KRaZiiiE
+[38;5;73m[ citizen-server-impl] Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[38;5;171m[                 cmd] Access denied for command start.
+[38;5;73m[ citizen-server-impl] Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[38;5;73m[ citizen-server-impl] Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+[38;5;73m[ citizen-server-impl] Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
